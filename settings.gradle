@@ -1,0 +1,2 @@
+include ':app', ':loaddex', ':r0so'
+rootProject.name='DexStudy'
